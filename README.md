@@ -40,8 +40,8 @@ Mobile Preview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-E340kRtubj)
+- Live Site URL: [Product Preview Card Component Layout](https://sdacleofe.github.io/product-preview-card-component-main/)
 
 ## My process
 
