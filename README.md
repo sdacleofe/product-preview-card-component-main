@@ -29,10 +29,12 @@ Users should be able to:
 ### Screenshot
 
 Desktop Preview
+-------------------------
 ![](./images/desktop.png)
 
 
 Mobile Preview
+-------------------------
 ![](./images/mobile.png)
 
 
