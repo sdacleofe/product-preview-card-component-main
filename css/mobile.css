@@ -1,0 +1,22 @@
+@media only screen and (max-width: 375px) {
+    main {
+        margin: 10px 10px 10px 10px;
+        border-radius: 10px;
+        flex-direction: column;
+        height: 800px;
+    }
+    .product-image {
+        flex: 1;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px !important;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .product-content {
+        padding: 30px;
+    }
+    footer.attribution {
+        display: none;
+    }
+}
